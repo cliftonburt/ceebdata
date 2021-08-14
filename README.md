@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ceebdata a data-analyst
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics, data so clean it sparkles.
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on data analytics, R, etc
 - 📫 How to reach me ceebdata@gmail.com
