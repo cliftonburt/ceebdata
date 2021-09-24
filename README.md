@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ceebdata
-- 👀 I’m interested in data analytics, machine learning, data wrangling
+- 👋 Hi, I’m @clifton-dot-computer
+- 👀 I’m interested in data analytics
 - 🌱 I’m ever improving my skills at SQL, R, and Python. 
 - 📫 How to reach me ceebdata@gmail.com
 
